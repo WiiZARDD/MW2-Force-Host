@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Force Host MW2", "Force Host MW2.csproj", "{00950A76-E7F5-4C78-8BC8-ADD0289F95AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BAF2D275-5C9F-4AD9-8D5E-2321DD5D2806}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00950A76-E7F5-4C78-8BC8-ADD0289F95AF}.Debug|x86.ActiveCfg = Debug|x86
+		{00950A76-E7F5-4C78-8BC8-ADD0289F95AF}.Debug|x86.Build.0 = Debug|x86
+		{00950A76-E7F5-4C78-8BC8-ADD0289F95AF}.Release|x86.ActiveCfg = Release|x86
+		{00950A76-E7F5-4C78-8BC8-ADD0289F95AF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81707D13-EF97-4C09-B945-92F29FF3690A}
+	EndGlobalSection
+EndGlobal
