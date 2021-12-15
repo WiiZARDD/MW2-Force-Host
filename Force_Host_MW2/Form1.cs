@@ -350,7 +350,7 @@ namespace Force_Host_MW2
 			this.BoosterTheme1.SmartBounds = true;
 			this.BoosterTheme1.StartPosition = FormStartPosition.WindowsDefaultLocation;
 			this.BoosterTheme1.TabIndex = 1;
-			this.BoosterTheme1.Text = "MW2 FORCE HOST TOOLS";
+			this.BoosterTheme1.Text = "MW2 FORCE HOST TOOL";
 			this.BoosterTheme1.TransparencyKey = Color.Fuchsia;
 			this.BoosterTheme1.Transparent = false;
 			this.Label5.AutoSize = true;
